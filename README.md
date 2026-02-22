@@ -7,3 +7,7 @@ Minha primeira experiência com ele foi criando um notebook sobre **Introdução
 Como estudante, fiquei impressionado com a forma como ele organiza ideias, resume conteúdos e facilita a compreensão de temas complexos.  
 
 ✨ Este repositório reúne os aprendizados e a experiência dessa jornada incrível com o NotebookLM!
+
+Obs: NotebookLM gerado para o Bootcamp Bradesco GEN/AI DIO.
+
+[Acesse aqui](https://notebooklm.google.com/)
