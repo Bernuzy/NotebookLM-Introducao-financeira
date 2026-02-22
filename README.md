@@ -10,4 +10,4 @@ Como estudante, fiquei impressionado com a forma como ele organiza ideias, resum
 
 Obs: NotebookLM gerado para o Bootcamp Bradesco GEN/AI DIO.
 
-[Acesse aqui](https://notebooklm.google.com/)
+<a href="https://notebooklm.google.com/notebook/78836930-29a5-49ab-abeb-dd8990de9e57?authuser=1" target="_blank">Acesse o NotebookLM</a>
